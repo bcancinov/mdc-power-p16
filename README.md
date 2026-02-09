@@ -21,8 +21,21 @@ Designed for 2 MHz sync operation.
 - Schematic: `power_p16.pdf`
 - Simulation: `sim/` (LTspice and LTpowerCAD files used for loop and transient checks)
 
+## Board Dimensions
+- 44.8 mm x 41.5 mm
+
+## Board Stackup
+- 4-layer PCB
+
 ## Interface
 - Control pins: `EN` (enable) and `PG` / `~PGOOD` (power good).
 - Connector: `LSHM-140-04.0-L-DV-A-N-K-TR` (Samtec LSHM series) mezzanine for power and control signals.
   - Common pinout is shared across the 16V, -16V, 6V, and 3.3V variants.
   - Unused output rails are tied to GND on the specific module variant.
+
+## Images
+Layout:
+![Layout](img/layout.png)
+
+3D view:
+![3D view](img/3d.png)
