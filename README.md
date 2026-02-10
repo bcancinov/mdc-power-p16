@@ -28,6 +28,9 @@ Mezzanine module.
 ## Board Stackup
 - 4-layer PCB
 
+## CAD
+- Designed using KiCad 9.
+
 ## Interface
 - Control pins: `EN` (enable) and `PG` / `~PGOOD` (power good).
 - Connector: `LSHM-140-04.0-L-DV-A-N-K-TR` (Samtec LSHM series) mezzanine for power and control signals.
