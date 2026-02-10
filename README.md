@@ -1,9 +1,10 @@
 # mdc-power-p16
-Modular Detector Controller Power 16V DC-DC Module
+Modular Detector Controller Power 16V DC-DC Mezzanine Module
 
 ## Overview
 12V input to 16V output DC-DC module, 0.5A nominal output, used as one of the `mdc-power-*` bias rails.
 Designed for 2 MHz sync operation.
+Mezzanine module.
 
 ## Power Stage
 - Controller: `LT8350S` (`U1`)
