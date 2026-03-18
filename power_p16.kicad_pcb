@@ -1464,7 +1464,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "3c791e6c-381f-464f-9753-9da254b4ed74")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -1476,7 +1476,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "038e188f-d131-4dd2-b373-c0d7670cce63")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -1488,7 +1488,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "c76d8730-f317-44cf-bed6-5006f952ee7d")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -1500,7 +1500,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "4f62dadd-1649-4c35-9dad-876359c3bc18")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -1512,7 +1512,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "63846071-92ee-4d0b-9978-ac5594010b6b")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -1524,7 +1524,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "3d6db170-702e-4656-ad34-b17055fa0979")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -1536,7 +1536,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "7c8765cb-aa0a-4aba-9fd5-f6d2d4a07e13")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -1548,7 +1548,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "42c7d954-9a36-4d5c-bbdf-c684d43d095b")
+			(uuid "203bc793-aba7-42c8-8e46-0e4eb607a838")
 		)
 		(embedded_fonts no)
 	)
@@ -2309,7 +2309,7 @@
 				)
 			)
 		)
-		(property "Description" "110 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "110 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2321,7 +2321,7 @@
 				)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2334,7 +2334,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW0603110KFKEA"
+		(property "MPN" "ERA-3AEB114V"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2549,7 +2549,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "dc32a1c9-e03b-4d3e-90aa-82c72f88e064")
 		)
 		(pad "1" thru_hole circle
 			(at -1.697056 1.697056)
@@ -2561,7 +2561,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "9562613c-4025-4c7f-8569-7f9193b6c081")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -2.4)
@@ -2573,7 +2573,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "8432d94b-5077-427f-9c06-514ccee95b68")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -2585,7 +2585,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "01fa53ab-fba5-487f-a5a0-3b299d76465f")
 		)
 		(pad "1" thru_hole circle
 			(at 0 2.4)
@@ -2597,7 +2597,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "287686be-22ab-4293-aed6-96a74e0a9773")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 -1.697056)
@@ -2609,7 +2609,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "edde90e7-f329-453f-bef4-93e28183c827")
 		)
 		(pad "1" thru_hole circle
 			(at 1.697056 1.697056)
@@ -2621,7 +2621,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "f44467f7-5c62-4106-8fe1-16ec85ce432f")
 		)
 		(pad "1" thru_hole circle
 			(at 2.4 0)
@@ -2633,7 +2633,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "8fbb2208-e8e4-4edc-bee9-976115ec25b9")
+			(uuid "a9c621ca-6b81-43cb-b415-cfe913d4c914")
 		)
 		(embedded_fonts no)
 	)
@@ -3878,7 +3878,7 @@
 				)
 			)
 		)
-		(property "Description" "7.32 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "7.32 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -3890,7 +3890,7 @@
 				)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3903,7 +3903,7 @@
 				)
 			)
 		)
-		(property "MPN" "CRCW06037K32FKTA"
+		(property "MPN" "ERA-3AEB7321V"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

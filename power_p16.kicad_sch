@@ -9661,7 +9661,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "7.32 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "7.32 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 187.96 77.47 0)
 			(effects
 				(font
@@ -9670,7 +9670,7 @@
 				(hide yes)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 187.96 77.47 0)
 			(effects
 				(font
@@ -9679,7 +9679,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW06037K32FKTA"
+		(property "MPN" "ERA-3AEB7321V"
 			(at 187.96 77.47 0)
 			(effects
 				(font
@@ -9836,7 +9836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "110 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+		(property "Description" "110 kOhms ±0.1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thin Film"
 			(at 187.96 64.77 0)
 			(effects
 				(font
@@ -9845,7 +9845,7 @@
 				(hide yes)
 			)
 		)
-		(property "M" "Vishay"
+		(property "M" "Panasonic"
 			(at 187.96 64.77 0)
 			(effects
 				(font
@@ -9854,7 +9854,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CRCW0603110KFKEA"
+		(property "MPN" "ERA-3AEB114V"
 			(at 187.96 64.77 0)
 			(effects
 				(font
