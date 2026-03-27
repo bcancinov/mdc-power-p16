@@ -43,3 +43,11 @@ Layout:
 
 3D view:
 ![3D view](img/3d.png)
+
+## License
+
+This hardware design is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** (CC BY-NC-SA 4.0).
+
+You are free to download, modify, and build upon this design for your own research or personal use, provided you give appropriate credit and share your modifications under the exact same license. **Commercial manufacturing or use of these designs is strictly prohibited without explicit permission.**
+
+To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-sa/4.0/](http://creativecommons.org/licenses/by-nc-sa/4.0/) or see the `LICENSE` file in this repository.
